@@ -76,8 +76,8 @@ tcpdump
 # OMX
 PRODUCT_PACKAGES += \
 libcsc \
-libExynosOMX_Core \
-libOMX.Exynos.MP3.Decoder \
+#libExynosOMX_Core \
+#libOMX.Exynos.MP3.Decoder \
 libstagefrighthw
 # Permissions
 PRODUCT_COPY_FILES += \

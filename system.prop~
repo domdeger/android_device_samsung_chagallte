@@ -2,7 +2,7 @@
 # system.prop for chagallte
 #
 
-#Media
+ Media
 ro.sapa.jack.master=alsa
 ro.hdcp2.rx=tz
 # UI

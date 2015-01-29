@@ -9,5 +9,3 @@
 /dev/block/platform/dw_mmc.0/by-name/HIDDEN /preload ext4 0 0
 /dev/block/platform/dw_mmc.0/by-name/BOOT /boot ext4 0 0
 /dev/block/platform/dw_mmc.0/by-name/RECOVERY /recovery ext4 0 0
-/mnt/media_rw/extSdCard /storage/extSdCard sdcardfs 0 0
-

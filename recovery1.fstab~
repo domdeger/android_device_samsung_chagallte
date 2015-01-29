@@ -1,0 +1,10 @@
+# mount point		fstype    device
+
+/cache      		ext4      /dev/block/platform/dw_mmc.0/by-name/CACHE
+/data       		ext4      /dev/block/platform/dw_mmc.0/by-name/USERDATA
+/persdata/absolute	ext4	  /dev/block/platform/dw_mmc.0/by-name/PERSDATA
+/data/knox/sdcard	sdcardfs  /mnt/shell/knox-emulated
+/system			ext4	  /dev/block/platform/dw_mmc.0/by-name/SYSTEM
+/storage/extSdCard	sdcardfs  /mnt/media_rw/extSdCard
+/data/media		sdcardfs  /mnt/shell/emulated
+/preload /		ext4	  /dev/block/platform/dw_mmc.0/by-name/HIDDEN
